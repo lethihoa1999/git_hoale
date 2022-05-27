@@ -1,0 +1,2 @@
+2. Linh hoạt hơn khi phải làm cùng lúc nhiều task
+Bởi vì bạn có thể cấu trúc công việc dễ dàng hơn nên việc làm nhiều task cùng lúc vô cùng dễ dàng. Ví dụ, cùng một lúc, chúng ta thường có một team làm tính năng mới, một vài team khác nâng cấp các tính năng hiện có, và một người fix bug.
