@@ -1,0 +1,3 @@
+3. Tự tin hơn khi thử nghiệm những ý tưởng mới
+Bạn có thể tách biệt việc thử nghiệm với dự án chính, điều này giúp nâng cao chất lượng code cũng như tính sáng tạo.
+Nhìn chung, hiện nay Git được coi là tiêu chuẩn bất thành văn trong ngành. Nếu chưa biết về Git, bạn nên dành thời gian để bắt đầu tìm hiểu ngay. Vì, sớm hay muộn, bạn cũng sẽ thuộc về một team phải dựa dẫm vào nó.
