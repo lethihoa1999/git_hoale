@@ -1,0 +1,4 @@
+1. Sắp xếp công việc tốt hơn
+Nghĩa là, bạn có thể tập trung giải quyết từng task mà không phải bận tâm lo lắng cho những task liên quan.
+Nếu không dùng Git, khả năng cao là mọi người sẽ làm việc giẫm chân nhau, những task sắp hoàn thành sẽ bị trì hoãn. Ngoài ra, tất cả mọi task lớn nhỏ sẽ buộc phải hoàn thành hết trước khi deploy, bởi vì chỉ cần 1 task vẫn đang dang dở, cả phần mềm có thể bị sập.
+
