@@ -2,7 +2,7 @@
     function checkValidString($str, $str_a, $str_b) 
     {
         if ((strlen(strstr($str, $str_a)) > 0 && strlen(strstr($str, $str_b)) == 0) 
-        || (strlen(strstr($str, $str_b)) > 0 && strlen(strstr($str, $str_a)) == 0) ) {
+        || (strlen(strstr($str, $str_b)) > 0 && strlen(strstr($str, $str_a)) == 0)) {
             return true;
         }
 
