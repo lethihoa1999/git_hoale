@@ -37,7 +37,6 @@ class exerciseString {
         $openFile = fopen($result_file, "a");
         fwrite($openFile , $str);
     }
-
 }
 
 $str_a = "book";

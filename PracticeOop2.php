@@ -9,13 +9,11 @@ abstract class Country
     {
         return $this->slogan = $_slogan. "<br>";
     }
-
 }
 
 interface Boss
 {
      function checkValidSlogan($str, $str_a, $str_b); 
- 
 }
 
 class EnglandCountry extends Country implements Boss
@@ -33,7 +31,6 @@ class EnglandCountry extends Country implements Boss
             echo "false";
         }
     }
-
 }
 
 class VietnamCountry extends Country implements Boss
@@ -51,7 +48,6 @@ class VietnamCountry extends Country implements Boss
             echo "false";
         }
     }
-
 }
 
 $englandCountry = new EnglandCountry();

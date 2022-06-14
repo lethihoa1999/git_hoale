@@ -18,9 +18,6 @@
         }
     }
 
-    $str_a = "book";
-    $str_b = "restaurant";
-
     function getTextFromFile($file)
     {
         try {
@@ -32,6 +29,8 @@
         } 
     }
     
+    $str_a = "book";
+    $str_b = "restaurant";
     $file1 = getTextFromFile("file1.txt");
     check($file1, $str_a, $str_b);
     $file2 = getTextFromFile("file2.txt");
